@@ -8,3 +8,7 @@
 2.	cd "HH-TCJunBackendDevTypeScript-test/Simple geom lib"
 3.  npm install
 4.  npm run build
+5.  npm link
+6.  cd ../test
+7.  npm link simple-geom-lib
+8.  tsc test.ts
