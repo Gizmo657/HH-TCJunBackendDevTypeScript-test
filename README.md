@@ -5,6 +5,6 @@
 # 2. Инструкция по установке и сборке (Windows):
 
 1.	git clone [https://github.com/Gizmo657/HH-TCJunBackendDevTypeScript-test](https://github.com/Gizmo657/HH-TCJunBackendDevTypeScript-test)
-2.	cd "Simple geom lib"
+2.	cd "HH-TCJunBackendDevTypeScript-test/Simple geom lib"
 3.  npm install
 4.  npm run build
