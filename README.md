@@ -11,4 +11,4 @@
 5.  npm link
 6.  cd ../test
 7.  npm link simple-geom-lib
-8.  tsc test.ts
+8.  node test.ts
