@@ -1,0 +1,17 @@
+{
+  "name": "simple-geom-lib",
+  "version": "1.0.0",
+  "description": "Простая TypeScript библиотека для работы с геометрическими фигурами",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "keywords": ["geometry", "typescript", "library"],
+  "author": "Gizmo657",
+  "license": "MIT"
+}
