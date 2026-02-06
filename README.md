@@ -1,6 +1,6 @@
 # 1. Работа с библиотекой
 
-Пример работы в файле test.ts в каталоге test
+Пример работы в файлах test.ts, test1.ts в каталоге test
 
 # 2. Инструкция по установке, сборке и запуску test.ts (Windows):
 
@@ -12,3 +12,4 @@
 6.  cd ../test
 7.  npm link simple-geom-lib
 8.  node test.ts
+9.  node test1.ts
