@@ -6,6 +6,7 @@ export interface Shape {
   readonly type: string;
   getArea(): number;
   getPerimeter(): number;
+  editShape(...args: any[]): Shape;
 }
 
 export interface ShapeFactory<T extends Shape> {
